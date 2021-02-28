@@ -1,0 +1,4 @@
+LibreOffice 7.0.4.2
+AdoptOpenJDK JDK with Hotspot 11.0.10+9 (x64)
+Microsoft Update Health Tools
+Ccleaner
